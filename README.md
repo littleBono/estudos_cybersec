@@ -16,7 +16,7 @@ Documentar meu aprendizado prático em segurança da informação, servindo tant
 
 | Lab | Tópicos | Status |
 |---|---|---|
-| [OS Security](tryhackme/os-security/) | Tríade CIA, senhas fracas, SSH, escalação de privilégio | ✅ |
+| [OS Security](tryhackme/os-security/) | Tríade CIA, senhas fracas, SSH, escalação de privilégio |  |
 
 ## 📬 Contato
 
